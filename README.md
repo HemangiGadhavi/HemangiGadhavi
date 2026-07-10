@@ -81,6 +81,7 @@ I am looking for opportunities as a **Data Analyst Intern** or **Entry-Level Dat
 ## 🏆 Certifications
 
 - Data Analytics Course (Udemy)
+ 
 
 ---
 
