@@ -70,23 +70,13 @@ I am looking for opportunities as a **Data Analyst Intern** or **Entry-Level Dat
 - Statistics
 - Data Modeling
 
----
+## 🎯 Goals for 2026
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemangiGadhavi&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemangiGadhavi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemangiGadhavi&layout=compact" />
-</p>
-
----
+- Build 5+ Data Analytics projects.
+- Master SQL and Power BI.
+- Improve Python skills for data analysis.
+- Gain hands-on experience through internships.
+- Start contributing to open-source projects.
 
 ## 🏆 Certifications
 
