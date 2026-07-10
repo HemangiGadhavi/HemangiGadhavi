@@ -1,16 +1,109 @@
-## Hi there 👋
+# Hi there, I'm Hemangi Gadhavi 👋
 
-<!--
-**HemangiGadhavi/HemangiGadhavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm a BCA graduate and an aspiring Data Analyst passionate about turning raw data into meaningful insights. I enjoy working with data, building dashboards, and solving business problems using analytics and visualization tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am strengthening my skills in SQL, Power BI, Python, and statistics while building real-world projects to gain practical experience.
+
+---
+
+## 🎯 Career Objective
+
+I am looking for opportunities as a **Data Analyst Intern** or **Entry-Level Data Analyst**, where I can apply my analytical skills, learn from experienced professionals, and contribute to data-driven decision-making.
+
+---
+
+## 💻 Skills & Technologies
+
+### 📊 Data Analytics
+
+- SQL
+- Python
+- Statistics
+- Data Cleaning
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+- Business Analytics
+
+### 📈 BI & Visualization Tools
+
+- Power BI
+- Tableau
+- Microsoft Excel
+
+### 🗄️ Databases
+
+- MySQL
+- SQL Server
+- SQLite
+
+### 🤖 AI & Productivity
+
+- Generative AI
+- Prompt Engineering
+
+### 👩‍💻 Programming
+
+- Python
+- SQL
+
+---
+
+## 📂 Featured Projects
+
+### 📱 Mobile Sales Dashboard (Power BI)
+
+- Built an interactive Power BI dashboard to analyze **769M+ sales data**.
+- Created KPI cards, filters, and slicers.
+- Developed Month-to-Date (MTD) and Year-over-Year (YoY) reports.
+- Analyzed sales trends, transactions, cities, and payment methods.
+
+**Tech Stack:** Power BI • DAX • Power Query • Excel
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Power BI
+- Tableau
+- Statistics
+- Data Modeling
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HemangiGadhavi&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemangiGadhavi" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemangiGadhavi&layout=compact" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+- Data Analytics Course (Udemy)
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: hemangigadhavi152@gmail.com
+
+💼 LinkedIn: (https://www.linkedin.com/in/hemangi-gadhavi-a95995367/)
+
+---
+
+### ✨ Fun Fact
+
+I enjoy transforming complex datasets into interactive dashboards and continuously learning new technologies in the field of data analytics.
+
+⭐ Feel free to explore my repositories and connect with me!
