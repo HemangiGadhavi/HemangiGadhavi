@@ -89,7 +89,7 @@ I am looking for opportunities as a **Data Analyst Intern** or **Entry-Level Dat
 
 📧 Email: hemangigadhavi152@gmail.com
 
-💼 LinkedIn: (https://www.linkedin.com/in/hemangi-gadhavi-a95995367/)
+💼 LinkedIn: (https://www.linkedin.com/in/hemangigadhavi/)
 
 ---
 
